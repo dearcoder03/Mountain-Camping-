@@ -1,2 +1,2 @@
-# Mountain-Camping-
+# Mountain-Camping
 Trying to learn Parallex effect using GASP...
